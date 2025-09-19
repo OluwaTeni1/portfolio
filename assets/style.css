@@ -485,6 +485,7 @@ p.name span {
   padding: var(--btn-padding);
   border-radius: 30px;
   margin-right: 5px;
+  margin-bottom: 10px;
   cursor: pointer;
   transition: 0.23s all linear;
   opacity: 0;
